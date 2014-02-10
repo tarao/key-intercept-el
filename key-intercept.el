@@ -292,3 +292,4 @@ sepcified key."
   (define-modal-intercept-key key nil def delay))
 
 (provide 'key-intercept)
+;;; key-intercept.el ends here
